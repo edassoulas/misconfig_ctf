@@ -1,0 +1,4 @@
+# Application Configuration
+# DEBUG=true
+# FLAG: CTF{g00d_m1sC0nf1gur@t10n}
+
